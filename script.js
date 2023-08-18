@@ -7,7 +7,8 @@ I)
         let var2 = var1;
     4.  Declaring is 'let, const, var' and saying this exists.
         Assigning is giving it a value with a equals sign.
-       **** Defining is 'TO DO'
+        Define was a function used to define modules before ES6 I think?
+        Define might also be referring to creating a function and stating what its input, output, and other behaviors are.
     5. A outline/blueprint of your code and logic before writing. It is to streamline your ideas i.e. planning out your flexbox in a grid.
     6. Depending on the complexity of your problem, the more complex it is the more time is needed to spend on planning out the problem.
 
